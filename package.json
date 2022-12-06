@@ -4,7 +4,7 @@
   "description": "Node/Express app returning the public IP of a client in a Redash-friendly format",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "scripts": {
